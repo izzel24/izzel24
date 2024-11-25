@@ -1,5 +1,5 @@
 - 👋 Hi, I’m izzel
 - 🌱 I’m currently learning React
-- 📫 How to reach me IG:izzelrohi__
+- 📫 How to reach me ig:@izzelrohi__
 
 
